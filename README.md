@@ -39,6 +39,8 @@ Programming
 - Python
 
 📍 Location: Magdeburg, Germany
+
 📫 Contact: neeha0502@gmail.com  
+
 🔗 LinkedIn: https://linkedin.com/in/neeha-devopsengineer
 
