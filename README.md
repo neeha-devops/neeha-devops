@@ -9,7 +9,9 @@ This is about my journey, How I am working to achieve my "Dream Role".
 - 📊 Implementing monitoring with Prometheus and Grafana
 - 💬 Ask me about Docker, Kubernetes, CI/CD, or Terraform
 
-  🚀 Infrastructure & DevOps Hands-on Projects
+
+🚀 Infrastructure & DevOps Hands-on Projects
+
 🔹 Multi-service DevOps Deployment on AKS
 End-to-end CI/CD pipeline for a multi-service application deployed on Azure Kubernetes Service, including containerization, automation, and monitoring.
 
